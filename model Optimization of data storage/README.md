@@ -1,5 +1,5 @@
 # Оптимизация модели данных интернет-магазина
-[Тетрадка проекта](https://github.com/wistfulbeaver/Portfolio/blob/main/model%20Optimization%20of%20data%20storage/project_1.ipynb)
+[Проект](https://github.com/wistfulbeaver/Portfolio/blob/main/model%20Optimization%20of%20data%20storage/project_1.ipynb)
 ## Описание проекта
 Оптимизация нагрузки на хранилище интернет-магазина: проведение миграции данных о заказах из большой таблицы в отдельные логические таблицы, и построение на их основе витрины данных для анализа эффективности и прибыльности бизнеса.
 ## Инструменты
