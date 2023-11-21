@@ -5,4 +5,4 @@
 - Python
 - PostgreSQL 
 - SQL
-## Выводы
+## Общий вывод
